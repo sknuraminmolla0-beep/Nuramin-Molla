@@ -1,0 +1,6 @@
+{
+  "name": "Shandar",
+  "description": "A magnificent daily companion app featuring smart habit tracking, daily inspiration cards, quick spend & budget logger, and a focus productivity timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
